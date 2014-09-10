@@ -15,3 +15,4 @@ Optional Stories:
   4. Changing the tip calculation to the selected segment tip percentage even after customization.
   
 Gif walkthrough:
+Refer to file tip_calculator.gif.gif
